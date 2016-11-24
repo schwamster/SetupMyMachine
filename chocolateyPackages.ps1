@@ -1,4 +1,4 @@
-﻿#Browser
+﻿##Browser
 #Firefox
 firefox
 #Chrome
@@ -15,11 +15,9 @@ nodejs.install
 
 #Tools
 #Spotify (No Updated Package)
-spotify
+#spotify does not work...
 #Skype
 skype
-#Paint.NET
-paint.net
 #Fiddler
 fiddler4
 #SourceTree
