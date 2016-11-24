@@ -31,6 +31,7 @@ psget
 rufus
 procexp
 baretail
+docker-for-windows
 
 #Games
 #Steam
